@@ -59,7 +59,7 @@ http://127.0.0.1:5000
 Student-Placement-Predictor/
 ├── app.py                 # Flask app
 ├── model.pkl              # Trained Logistic Regression model
-├── scaler.pkl             # StandardScaler used for input normalization
+├── scaler.pkl             # StandardScaler used for input normalisation
 ├── requirements.txt       # Dependencies
 └── templates/
     └── index.html         # Frontend HTML form
@@ -72,12 +72,6 @@ Student-Placement-Predictor/
 * Algorithm: **Logistic Regression**
 * Accuracy: \~80%
 * Scaled inputs using `StandardScaler`
-
----
-
-## 📸 Screenshot
-
-(Add a screenshot of your app here when it's running)
 
 ---
 
